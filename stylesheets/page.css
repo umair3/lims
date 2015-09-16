@@ -1,0 +1,29 @@
+/* CSS Document */
+body {
+	margin-left: 100px;
+	margin-top: 100px;
+	margin-right: 100px;
+	margin-bottom: 100px;
+
+	letter-spacing:1.5pt;
+	word-spacing:3pt;
+	line-height:20pt;
+	text-align:left;
+	
+	background-color: #C7CEFE;
+}
+
+a:link {color:#004488;}
+a:visited {color:#004488;}
+a:hover {color:black; font-weight:bold;}
+
+
+h1{text-align:center; font-size:14pt; font-family:verdana; color:#FFFFFF; font-weight:bold;}
+h2{text-align:center; font-size:12pt; font-family:verdana; color:Black; font-weight:bold;}
+h3{text-align:center; font-size:11pt; font-family:verdana; color:Black; font-style:italic;}
+
+html {scrollbar-base-color: #004488;scrollbar-arrow-color: white; scrollbar-DarkShadow-Color: white; scrollbar-track-color: white; }
+
+.button 
+{ border: thin ; font-size: 15px; color: #FFFFFF; font-weight: normal; font-family: arial; background-color: #004488; text-decoration: none; 
+} 
